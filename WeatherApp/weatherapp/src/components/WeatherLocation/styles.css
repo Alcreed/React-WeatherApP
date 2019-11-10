@@ -1,0 +1,14 @@
+.weatherLocation{
+    max-width: 420px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 0 0 8px 0 #4C4C4C;
+}
+.location{
+    font-family: 'Roboto', sans-serif;
+    color: orange;
+}
+.location h1{
+    margin: 0;
+    text-align: left;
+}
